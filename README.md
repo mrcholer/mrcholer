@@ -46,7 +46,7 @@ My stack includes **Node.js, React, Next.js, HTML, CSS, JavaScript, TypeScript, 
 - **Interactive experiences** - multiplayer games and Discord Activities with Ludicord.
 
 <p>
-  <a href="https://github.com/mrcholer/ludicord"><img src="./assets/ludicord-banner-large.png" alt="Ludicord - Build together. Play together. React framework for Discord Activities." width="100%" /></a>
+  <a href="https://github.com/mrcholer/ludicord"><img src="./assets/ludicord-banner-v2.png" alt="Ludicord - Build together. Play together. React framework for Discord Activities." width="100%" /></a>
 </p>
 
 **A full-stack React framework for building Discord Activities.**
