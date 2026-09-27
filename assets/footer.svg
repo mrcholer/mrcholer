@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" fill="none">
+  <title>mrcholer - From the interface to the systems behind it - I enjoy building the whole picture.</title>
+  <desc>A slim dark footer with a mint accent, the mrcholer name, and a closing line in soft lavender.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="76" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11121E"/><stop offset="1" stop-color="#201B34"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A3E6CB" stop-opacity=".45"/><stop offset=".5" stop-color="#C4B5FD" stop-opacity=".3"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".15"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#C4B5FD" stroke-opacity=".025"/>
+    </pattern>
+    <clipPath id="corners"><rect width="1200" height="76" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#corners)">
+    <rect width="1200" height="76" fill="url(#background)"/>
+    <rect width="1200" height="76" fill="url(#grid)"/>
+    <path d="M0 .5H1200" stroke="url(#edge)"/>
+    <rect x="34" y="34" width="8" height="8" rx="2" fill="#A3E6CB"/>
+    <text x="56" y="43" fill="#E6E0F5" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="1.8">MRCHOLER</text>
+    <path d="M204 25V51" stroke="#C4B5FD" stroke-opacity=".22"/>
+    <text x="232" y="44" fill="#BBB3CF" font-family="'Segoe UI', Arial, sans-serif" font-size="17">From the interface to the systems behind it - I enjoy building the whole picture.</text>
+    <path d="M1129 30L1121 38L1129 46M1159 30L1167 38L1159 46M1149 27L1139 49" stroke="#A3E6CB" stroke-opacity=".65" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x=".5" y=".5" width="1199" height="75" rx="11.5" stroke="#C4B5FD" stroke-opacity=".13"/>
+  </g>
+</svg>
